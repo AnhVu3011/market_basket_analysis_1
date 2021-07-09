@@ -1,0 +1,51 @@
+1442.0;Active Life;Fitness & Instruction; 
+1593.0;Restaurants;American (New); 
+2416.0;Restaurants;American (Traditional); 
+1716.0;Automotive;Auto Repair; 
+1115.0;Bakeries;Food; 
+4328.0;Bars;Nightlife; 
+874.0;Bars;Pubs; 
+2423.0;Restaurants;Bars; 
+818.0;Bars;Sports Bars; 
+2091.0;Hair Salons;Beauty & Spas; 
+1667.0;Nail Salons;Beauty & Spas; 
+1369.0;Restaurants;Breakfast & Brunch; 
+774.0;Burgers;Fast Food; 
+1774.0;Burgers;Restaurants; 
+1002.0;Restaurants;Cafes; 
+1629.0;Restaurants;Chinese; 
+2199.0;Coffee & Tea;Food; 
+823.0;General Dentistry;Dentists; 
+1195.0;Dentists;Health & Medical; 
+1694.0;Doctors;Health & Medical; 
+1431.0;Event Planning & Services;Hotels; 
+1471.0;Hotels & Travel;Event Planning & Services; 
+3078.0;Fashion;Shopping; 
+1138.0;Fashion;Women's Clothing; 
+2851.0;Restaurants;Fast Food; 
+1424.0;Grocery;Food; 
+1018.0;Ice Cream & Frozen Yogurt;Food; 
+2101.0;Restaurants;Food; 
+1150.0;Specialty Food;Food; 
+823.0;General Dentistry;Health & Medical; 
+1586.0;Shopping;Home & Garden; 
+1424.0;Real Estate;Home Services; 
+1431.0;Hotels & Travel;Hotels; 
+1848.0;Restaurants;Italian; 
+848.0;Restaurants;Japanese; 
+2515.0;Restaurants;Mexican; 
+874.0;Pubs;Nightlife; 
+2533.0;Restaurants;Nightlife; 
+818.0;Nightlife;Sports Bars; 
+870.0;Pet Services;Pets; 
+2657.0;Restaurants;Pizza; 
+2364.0;Restaurants;Sandwiches; 
+798.0;Restaurants;Sushi Bars; 
+1138.0;Shopping;Women's Clothing; 
+874.0;Bars;Pubs;Nightlife
+2423.0;Restaurants;Bars;Nightlife
+818.0;Bars;Nightlife;Sports Bars
+774.0;Burgers;Restaurants;Fast Food
+823.0;General Dentistry;Dentists;Health & Medical
+1431.0;Hotels & Travel;Event Planning & Services;Hotels
+1138.0;Fashion;Shopping;Women's Clothing
